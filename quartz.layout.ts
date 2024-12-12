@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/0ji54n",
     },
   }),
 }
@@ -33,6 +32,24 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+  ],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: '0ji54n/kiji',
+        // from data-repo-id
+        repoId: 'R_kgDONcXWYA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDONcXWYM4ClJXO',
+        themeUrl: './quartz/static',
+        lightTheme: 'comment-light',
+        darkTheme: 'comment-dark'
+      }
+    }),
   ],
 }
 
