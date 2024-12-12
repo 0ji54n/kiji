@@ -1,7 +1,7 @@
 ![[17218811512iyyn-1174x630.jpg]]
 # [Horror Mistery] Họ đã làm gì vào ngày đó?
 
-\[Cửa sổ phát sáng ánh xanh]\[Thi thể hài cốt được tìm thấy]\[Vụ án bí ẩn]\[Âm thanh ma quái được ghi lại]... Tất cả các câu đố đều kết nối với nhau vào phút cuối.
+\[Cửa sổ phát ánh sáng xanh]\[Thi thể hài cốt được tìm thấy]\[Vụ án bí ẩn]\[Âm thanh ma quái được ghi lại]... Tất cả các câu đố đều kết nối với nhau vào phút cuối.
 
 ※Bài viết này có đề cập đến vấn đề xâm hại tình dục
 
@@ -23,11 +23,7 @@ Nội dung xuất bản tại công ty mà Shintani làm việc thường mang c
 
 Từ đó, tôi đã nghe được câu chuyện về "Trải nghiệm kỳ lạ khi dừng chân ở một khách sạn địa phương" từ anh ấy.
 
-**Shintani**: *"Vào ngày 07 tháng 09 năm 2019, tôi có đến Sugahara của tỉnh Mie."*
-
-*"Việc thu thập thông tin diễn ra suôn sẻ hơn mong đợi nên có thể về trong ngày, nhưng vì hôm đó có mưa và gió rất mạnh dẫn đến tàu Shinkansen dừng giữa chừng, chờ lâu cũng chẳng biết tới khi nào nên tôi quyết định kiếm một khách sạn để dừng chân qua đêm."*
-
-*"Khách sạn đó có lẽ bây giờ không còn mở nữa, nhưng tên nó là 'Hichiyagi Hotel'."*
+**Shintani**: *"Vào ngày 07 tháng 09 năm 2019, tôi có đến Sugahara của tỉnh Mie. Việc thu thập thông tin diễn ra suôn sẻ hơn mong đợi nên có thể về trong ngày, nhưng vì hôm đó có mưa và gió rất mạnh dẫn đến tàu Shinkansen dừng giữa chừng, chờ lâu cũng chẳng biết tới khi nào nên tôi quyết định kiếm một khách sạn để nghỉ qua đêm. Nơi đó có lẽ bây giờ không còn mở nữa, nhưng tên nó là 'Hichiyagi Hotel'."*
 
 ... Tôi thử dùng điện thoại để tìm thử thông tin về "Hichiyagi Hotel" thì xuất hiện kết quả trên bản đồ.
 
@@ -35,19 +31,15 @@ Từ đó, tôi đã nghe được câu chuyện về "Trải nghiệm kỳ lạ
 
 **Uketsu (tác giả):** *"Xung quanh chẳng có nhà cửa gì nhỉ, này là ở vùng nông thôn à?"*
 
-**Shintani:** *"Xung quanh nhiều cây cối thật đấy, nhưng đúng là ngoài ra chẳng còn gì cả thật."*
-
-*"Có vẻ vì ở một nơi như thế này nên bình thường chẳng bao giờ có khách tới lui nhiều, quản lý cũng tệ hại. Không biết chủ khách sạn có đóng tiền điện hay không nữa, hình ảnh hành lang tối mịt cho tới bây giờ tôi vẫn còn nhớ như in đây."*
+**Shintani:** *"Nhiều cây cối thật đấy, nhưng đúng là ngoài ra chẳng còn gì cả thật. Có vẻ vì ở một nơi như thế này nên bình thường chẳng bao giờ có khách tới lui nhiều, quản lý cũng tệ hại. Không biết chủ khách sạn có đóng tiền điện hay không nữa, hình ảnh hành lang tối mịt cho tới bây giờ tôi vẫn còn nhớ như in đây."*
 
 **Uketsu:** *"Ở vùng núi hẻo lánh thế này thì đúng là hơi ghê thật nhỉ, những người khách khác thì sao?"*
 
-**Shintani:** *"Hình như lễ tân có nói là 'lâu lắm mới có một đoàn người ghé thăm'. Nhưng dù thế thì ở sảnh vẫn im ắng cực kỳ."*
+**Shintani:** *"Hình như lễ tân nói là 'lâu lắm mới có một đoàn người ghé thăm'. Nhưng dù thế thì ở sảnh vẫn im ắng cực kỳ."*
 
 ... Ngày hôm đó, Shintani đã check in vào khoảng 8h tối.
 
-**Shintani:** *"Dù bên ngoài mưa nhỏ lại rồi nhưng gió thì vẫn mạnh nên cũng chẳng thể đi đâu, vừa tới phòng tôi liền đi tắm, sắp xếp lại tài liệu rồi lên giường ngủ vào khoảng trước 12h."*
-
-*"Chắc do mệt nên tôi nhanh chóng vào giấc, nhưng ngay sau đó lại bị đánh thức bởi một tiếng động giữa đêm."*
+**Shintani:** *"Bên ngoài mưa nhỏ lại rồi nhưng gió thì vẫn mạnh nên cũng chẳng thể đi đâu, vừa tới phòng tôi liền đi tắm, sắp xếp lại tài liệu rồi lên giường ngủ vào khoảng trước 12h. Chắc do mệt nên tôi nhanh chóng vào giấc, nhưng ngay sau đó lại bị đánh thức bởi một tiếng động giữa đêm."*
 
 **Uketsu:** *"Tiếng động?"*
 
@@ -61,17 +53,11 @@ Phòng khách sạn. Cửa sổ phát sáng xanh.
 
 Trông như thể một cảnh phim Khoa học viễn tưởng.
 
-**Shintani:** *"Vì bệnh nghề nghiệp nên cứ thấy thứ gì kỳ lạ là tôi đều chụp lại theo phản xạ. Dù ngái ngủ nhưng tôi vẫn chụp lại lúc đấy."*
-
-*"Ánh sáng hình như kéo dài khoảng... 10 giây thì phải. Sau đó thì cả âm thanh lẫn ánh sáng đều biến mất, phía cửa sổ lại là màn đêm tăm tối như trước."*
-
-*"Tôi có lại gần cửa sổ xem thử nhưng chẳng có gì khác biệt. Phía đối diện khách sạn là rừng cây bị chao đảo bởi gió lớn, cho tới bây giờ tôi vẫn còn rợn gáy."*
+**Shintani:** *"Vì bệnh nghề nghiệp nên cứ thấy thứ gì kỳ lạ là tôi đều chụp lại theo phản xạ. Dù ngái ngủ nhưng tôi vẫn chụp lại lúc đấy. Ánh sáng hình như kéo dài khoảng... 10 giây thì phải. Sau đó thì cả âm thanh lẫn ánh sáng đều biến mất, phía cửa sổ lại là màn đêm tăm tối như trước. Tôi có lại gần cửa sổ xem thử nhưng chẳng có gì khác biệt. Phía đối diện khách sạn chỉ có rừng cây bị chao đảo bởi gió lớn, cho tới bây giờ tôi vẫn còn rợn gáy."*
 
 ... Sau đó vì bắt đầu thấy sợ nên Shintani chỉ biết trùm chăn nằm tiếp cho đến sáng.
 
-**Shintani:** *"Sáng hôm sau tôi lập tức check out và về Tokyo. Ngày hôm đó được nghỉ nên cũng có thể thong thả về nhà và nghỉ ngơi."*
-
-*"Nhưng sau khi tỉnh dậy vào tầm chiều tối, mở tin tức lên xem thì không tin vào mắt mình nữa."*
+**Shintani:** *"Sáng hôm sau tôi lập tức check out và về Tokyo. Ngày hôm đó được nghỉ nên cũng có thể thong thả về nhà và nghỉ ngơi. Nhưng sau khi tỉnh dậy vào tầm chiều tối, mở tin tức lên xem thì không tin vào mắt mình nữa."*
 
 ... Khung cảnh chiếu trên TV lúc ấy nhìn rất quen.
 
@@ -83,7 +69,7 @@ Trông như thể một cảnh phim Khoa học viễn tưởng.
 
 ![[Pasted image 20241212135649.png]]
 
-Rạng sáng ngày 08 tháng 09 năm 2019, người ta đã tìm thấy một chiếc xe tông thẳng vào rừng cây thuộc địa phận Sugihara, tỉnh Mie.
+Rạng sáng ngày 08 tháng 09 năm 2019, người ta đã tìm thấy một chiếc xe tông thẳng vào rừng cây thuộc địa phận Sugahara, tỉnh Mie.
 
 Vài giờ sau tai nạn, tài xế được xác nhận là đã chết.
 
@@ -113,8 +99,8 @@ id1(**Chiều 07 tháng 09**
 Dùng xe hơi để từ nhà ở Tokyo đến tỉnh Mie) --> id2(**Chiều tối**
 Check in ở khách sạn gần địa điểm) --> id3(**Sáng 08 tháng 09 khoảng sau 1h sáng**
 Rời khách sạn bằng xe hơi) --> id4(Đi vào rừng,
-đào thi thể lên
-rồi bỏ vào cốp xe) --> id5(Gặp tai nạn và chết ngay sau đó)
+đào thi thể lên 
+rồi bỏ vào cốp xe ) --> id5(Gặp tai nạn và chết ngay sau đó)
 ```
 
 ... Từ thông tin hành vi và vị trí, cảnh sát đã đưa ra kết luận như dưới.
@@ -145,9 +131,7 @@ Và rồi...
 
 ![[Pasted image 20241212143258.png]]
 
-**Shintani:** *"Vào đêm mà tôi thấy ánh sáng xanh đó, Kurabe đã bị tai nạn chết."*
-
-*"... Dù nói thế nhưng 2 việc trên có liên quan tới nhau như thế nào thì tôi cũng không rõ."*
+**Shintani:** *"Vào đêm mà tôi thấy ánh sáng xanh đó, Kurabe đã bị tai nạn chết... Dù nói thế nhưng 2 việc trên có liên quan tới nhau như thế nào thì tôi cũng không rõ."*
 
 **Uketsu:** *"Đúng là kỳ lạ thật... Mà thi thể ở trong cốp xe là của ai vậy?"*
 
@@ -177,9 +161,7 @@ Nhưng...
 
 **Uketsu:** *"Vậy tại sao sau đó hắn lại đi đào cái xác lên?"*
 
-**Shintani:** *"Có vẻ là do dạo đấy chuyện quy hoạch phần rừng đó được nhắc tới nhiều, nên trước khi người ta bắt đầu thì hắn tới để chuyển cái xác đi chỗ khác cũng nên."*
-
-*"Mà dù nói là thế nhưng vì dịch Corona nên tới tận bây giờ chỗ đó vẫn là rừng đấy thôi."*
+**Shintani:** *"Có vẻ là do dạo đấy chuyện quy hoạch phần rừng đó được nhắc tới nhiều nên trước khi người ta bắt đầu thì hắn tới để chuyển cái xác đi chỗ khác. Mà dù nói là thế nhưng vì dịch Corona nên tới tận bây giờ chỗ đó vẫn là rừng đấy thôi."*
 
 ![[Pasted image 20241212145054.png]]
 
@@ -191,9 +173,7 @@ Nhưng...
 
 ![[Pasted image 20241212145359.png]]
 
-**Shintani:** *"Con đường xảy ra tai nạn là một đường thẳng dài. Vậy tại sao lại cần phải cua gấp?"*
-
-*"Lúc đấy người ta nói rằng có thể do hắn tránh động vật gì đó nhảy ra ngoài đường nên mới vậy nhưng mà..."*
+**Shintani:** *"Con đường xảy ra tai nạn là một đường thẳng dài. Vậy tại sao lại cần phải cua gấp? Lúc đấy người ta nói rằng có thể do hắn tránh động vật gì đó nhảy ra ngoài đường nên mới vậy nhưng mà..."*
 
 ![[Pasted image 20241212145624.png]]
 
@@ -315,9 +295,7 @@ Là âm thanh trong video, nhưng có gì đó không đúng. So với âm thanh
 
 **Uketsu:** *"Vậy ánh sáng xanh từ cửa sổ thì sao? Thứ đó có thể giải thích bằng lý luận thông thường được không?"*
 
-**Kurihara:** *Được, có thể giải thích bằng chỉ một câu.*
-
-*"'Vì có thứ gì đó phát sáng bên ngoài cửa sổ', chỉ thế thôi."*
+**Kurihara:** *Được, có thể giải thích bằng chỉ một câu. 'Vì có thứ gì đó phát sáng bên ngoài cửa sổ', chỉ thế thôi."*
 
 **Uketsu:** *"Cái đó thì tôi biết nhưng mà..."*
 
@@ -325,25 +303,17 @@ Là âm thanh trong video, nhưng có gì đó không đúng. So với âm thanh
 
 Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát sáng"**... Nghĩa là lúc đó đã có nguồn sáng gì đó ngoài cửa sổ...
 
-**Kurihara:** *"Vậy cùng điều tra xem nguồn sáng đó là gì nào."*
-
-*"Đầu tiên là kiểm tra những gợi ý đã có sẵn"*
-
-*"Thứ tôi để ý đến ngay trước tất cả, là **âm thanh** mà Shintani đã nghe được."*
+**Kurihara:** *"Vậy cùng điều tra xem nguồn sáng đó là gì nào. Đầu tiên là kiểm tra những gợi ý đã có sẵn, thứ tôi để ý đến ngay trước tất cả, là **âm thanh** mà Shintani đã nghe được."*
 
 ![[Pasted image 20241212165127.png]]
 
-**Kurihara:** *"Tôi đã nghĩ rằng tiếng 'ầm' này có khi nào là tiếng công tắc của nguồn sáng đó hay không."*
-
-*"Ví dụ, nếu có ai đó đặt một cái đèn khổng lồ hướng về phía khách sạn chẳng hạn."*
+**Kurihara:** *"Tôi đã nghĩ rằng tiếng 'ầm' này có khi nào là tiếng công tắc của nguồn sáng đó hay không. Ví dụ như nếu có ai đó đặt một cái đèn khổng lồ hướng về phía khách sạn chẳng hạn."*
 
 **Uketsu:** *"Một cái đèn khổng lồ...?"*
 
 ![[Pasted image 20241212165553.png]]
 
-**Kurihara:** *"Vì là một cái đèn khổng lồ nên âm thanh phát ra khi bật công tắc cũng sẽ rất lớn."*
-
-*"Từ âm thanh này mà Shintani bị giật mình dậy và rồi thấy ánh sáng ngoài cửa sổ."*
+**Kurihara:** *"Vì là một cái đèn khổng lồ nên âm thanh phát ra khi bật công tắc cũng sẽ rất lớn. Từ âm thanh này mà Shintani bị giật mình dậy và rồi thấy ánh sáng ngoài cửa sổ."*
 
 **Uketsu:** *"Khoan đã... cái này..."*
 
@@ -357,11 +327,7 @@ Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát
 
 ![[Pasted image 20241212170033.png]]
 
-**Kurihara:** *"Sau khi ánh sáng biến mất thì Shintani đã ra ngoài cửa sổ để xem. Nhưng không có gì thay đổi cả."*
-
-*"Hay nói cách khác, lúc đó ở ngoài cửa chẳng có gì, nếu là một cái đèn khổng lồ thì không thể mang đi nhanh như vậy được."*
-
-*"Từ đó có thể đưa ra kết luận **'nguồn sáng không phải là một cái đèn khổng lồ'**."*
+**Kurihara:** *"Sau khi ánh sáng biến mất thì Shintani đã ra ngoài cửa sổ để xem nhưng không có gì thay đổi cả. Hay nói cách khác, lúc đó ở ngoài cửa chẳng có gì, nếu là một cái đèn khổng lồ thì không thể mang đi nhanh như vậy được. Từ đó có thể đưa ra kết luận **'nguồn sáng không phải là một cái đèn khổng lồ'**."*
 
 **Uketsu:** *(Thời gian nãy giờ dùng để giải thích một chuyện hiển nhiên như vậy hay sao?)*
 
@@ -377,9 +343,7 @@ Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát
 
 **Uketsu:** *"Ừm... Ít ra thì nghe hợp lý hơn là cái đèn khổng lồ nhưng mà..."*
 
-**Kurihara:** *"Nhưng cách suy luận này cũng có vấn đề. Như Shintani đã nói, ánh sáng kéo dài khoảng 10 giây. Dù là gió mạnh cỡ nào thì để kéo một vật nặng như biển hiệu để dính lấy tường trong 10 giây là rất khó."*
-
-*"Chưa kể là nếu thứ này rơi xuống dưới khách sạn thì Shintani phải nhận ra ngay sau đó. Nói cách khác:"*
+**Kurihara:** *"Nhưng cách suy luận này cũng có vấn đề. Như Shintani đã nói, ánh sáng kéo dài khoảng 10 giây. Dù là gió mạnh cỡ nào thì để kéo một vật nặng như biển hiệu dính lấy tường trong 10 giây là rất khó. Chưa kể là nếu thứ này rơi xuống dưới khách sạn thì Shintani phải nhận ra ngay sau đó. Nói cách khác:"*
 
 ***1. "Nguồn sáng" là vật nhẹ có thể bám trên tường trong khoảng 10 giây***
 
@@ -387,9 +351,7 @@ Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát
 
 ... Đúng là nếu suy nghĩ như vậy thì bí ẩn về "cửa sổ phát sáng" cũng được giải đáp. Nhưng liệu thứ đó hay nhân vật kia có tồn tại hay không?
 
-**Kurihara:** *"Về ý 1, theo phương diện vật lý thì hoàn toàn có khả năng."*
-
-*"Uketsu có biết về **sơn phát quang** không?"*
+**Kurihara:** *"Về ý 1, theo phương diện vật lý thì hoàn toàn có khả năng. Uketsu có biết về **sơn phát quang** không?"*
 
 ![[Pasted image 20241212172305.png]]
 
@@ -411,4 +373,4 @@ Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát
 
 ![[Pasted image 20241212173330.png]]
 
-> *Hình như lễ tân có nói là 'lâu lắm mới có một đoàn người ghé thăm'.*
+> *Hình như lễ tân nói là 'lâu lắm mới có một đoàn người ghé thăm'.*
