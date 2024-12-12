@@ -45,9 +45,8 @@ export const defaultContentPageLayout: PageLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDONcXWYM4ClJXO',
-        themeUrl: 'https://kiji.netlify.app/static',
-        lightTheme: 'comment-light',
-        darkTheme: 'comment-dark'
+        lightTheme: 'light',
+        darkTheme: 'dark'
       }
     }),
   ],
