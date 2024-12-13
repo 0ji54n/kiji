@@ -1,5 +1,5 @@
 ![[17218811512iyyn-1174x630.jpg]]
-# [Horror Mistery] Họ đã làm gì vào ngày đó?
+# [Horror Mystery] Họ đã làm gì vào ngày đó?
 
 \[Cửa sổ phát ánh sáng xanh]\[Thi thể hài cốt được tìm thấy]\[Vụ án bí ẩn]\[Âm thanh ma quái được ghi lại]... Tất cả các câu đố đều kết nối với nhau vào phút cuối.
 
