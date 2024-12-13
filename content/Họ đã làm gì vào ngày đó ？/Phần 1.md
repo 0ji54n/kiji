@@ -541,7 +541,7 @@ Mối quan hệ giữa những người này là gì...?
 
 **Uketsu:** *"Vâng..."*
 
-... Tôi lúc đó hề không biết rằng mình đã bỏ qua một **yếu tố quan trọng** có thể dẫn đến sự thật của toàn bộ vụ án.
+... Tôi lúc đó không hề biết rằng mình đã bỏ qua một **yếu tố quan trọng** có thể dẫn đến sự thật của toàn bộ vụ án.
 
 Để biết được sự thật này, tôi đã cần rất nhiều thời gian sau đó. 
 
