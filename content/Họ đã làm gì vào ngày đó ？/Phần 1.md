@@ -357,7 +357,7 @@ Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát
 
 **Kurihara:** *"Là chất liệu phát quang mà không cần dùng điện. Chỉ cần sơn lên có thể tạo ra một vật tự bản thân phát sáng nên thường được dùng cho trang sức hay dụng cụ câu cá."*
 
-**Uketsu:** *"À, là thứ phát sáng được trong đêm đấy à."*
+**Uketsu:** *"À, là thứ phát sáng được trong đêm đấy."*
 
 **Kurihara:** *"Loại sơn thông thường sẽ sáng khá yếu, nhưng các loại đắt tiền hơn dùng cho trực thăng và trang bị quân đội thì có thể phát sáng rất mạnh."*
 
@@ -374,3 +374,181 @@ Không phải "bên ngoài cửa sổ phát sáng" mà là **"có gì đó phát
 ![[Pasted image 20241212173330.png]]
 
 > *Hình như lễ tân nói là 'lâu lắm mới có một đoàn người ghé thăm'.*
+
+**Kurihara:** *"Trong ngày mưa và gió lớn như thế mà lại có 'đoàn người' ghé một khách sạn vùng quê xập xệ để ở qua đêm không phải rất kỳ lạ sao?"*
+
+**Uketsu:** *"... Đúng là anh nói thì tôi mới để ý..."*
+
+**Kurihara:** *"Vậy để xác định 'đoàn người' này là ai, ta cùng xem lại video kia."*
+
+![[Pasted image 20241213081927.png]]
+
+**Kurihara:** *"Theo danh sách này thì hôm đó khách trọ lại Hichiyagi Hotel ngoài Shintani và Kurabe ra còn 8 người khác."*
+
+![[Pasted image 20241213082035.png]]
+
+**Kurihara:** *"Vậy để biết những ai thuộc 'đoàn người' trong 8 người này, tôi đã thử đoán bằng số phòng."*
+
+![[Pasted image 20241213082123.png]]
+
+**Kurihara:** *"Phòng để khách thuê tại khách sạn bắt đầu từ tầng 2 tới tầng 7. 1 tầng có 6 cửa sổ, theo danh sách kia thì không có số phòng nào vượt qua '06' nên tôi có thể đoán rằng 1 tầng chỉ có 6 phòng."*
+
+![[Pasted image 20241213082307.png]]
+
+**Kurihara:** *"Giả sử ta đánh số phòng từ 01 tới 06 theo thứ tự từ trái sang phải. Có thể sự thật là ngược lại nhưng cũng chẳng ảnh hưởng gì tới suy đoán của tôi cả. Từ đó thử viết tên từng người vào số phòng tương ứng hôm đó của họ xem."*
+
+**Uketsu:** *"Hả?... À, vâng."*
+
+![[Pasted image 20241213082503.png]]
+
+... Từ danh sách bên trái, tôi lần lượt ghi tên tương ứng với số phòng của họ.
+
+Rồi từ đó, tôi phát hiện ra một điểm bất thường.
+
+![[Pasted image 20241213082713.png]]
+
+**Uketsu:** *"Cái này..."*
+
+**Kurihara:** *"Anh đã hiểu chưa?"*
+
+![[Pasted image 20241213082801.png]]
+
+**Kurihara:** *"Phòng của 8 người: Ishino, Murai, Saruhari, Nazaki, Aki, Karukaya, Tanaka và Edano tạo nên một hình vuông 3x3. Phía khách sạn chẳng có lý do gì để sắp xếp phòng như thế này nên có lẽ là yêu cầu từ phía đặt phòng. Hay nói cách khác, 8 người này chính là 'đoàn người'. Tiếp đến ta chú ý đến phòng của Shintani."*
+
+![[Pasted image 20241213083559.png]]
+
+**Kurihara:** *"Phòng anh ấy ở lại đêm hôm đó là 605, ngay bên cạnh hình vuông của 'đoàn người'. Này chắc là ngẫu nhiên thôi. Bên khách sạn để tiết kiệm điện nên đã đẩy các khách lẻ khác lên tầng 5 tới tầng 7. Bằng cách này thì không cần mở điện từ tầng 2 tới tầng 4. Nhờ việc này là Shintani mới được trải nghiệm **'ánh sáng xanh kỳ lạ' được tạo nên bởi đoàn người kia.**"*
+
+**Uketsu:** *"Ồ..."*
+
+**Kurihara:** *"8 người này vào đêm đó đã đưa tay ra cửa sổ để nắm lấy một tờ giấy lớn...một tờ giấy có sơn phát quang lớn và hướng ra bên ngoài."*
+
+![[Pasted image 20241213084015.png]]
+
+**Kurihara:** *"Nhưng giữa chừng thì có thể do gió mạnh nên ai đó đã buông tay. Gió càng ngày càng mạnh, 7 người còn lại thì không thể giữ nổi tờ giấy do đã mất thăng bằng và cứ thế từng người một buông tay. Và rồi..."*
+
+![[1720873801crj59.gif]]
+
+**Kurihara:** *"Cuối cùng thì tờ giấy như một trang sách bị lật, đổ ập vào tường của khách sạn. Shintani vì âm thanh đó mà thức dậy..."*
+
+![[Pasted image 20241213084334.png]]
+
+**Kurihara:** *"... Và thấy được tờ giấy bị lật ngược. Sau khi gió dừng, đoàn người cũng vội vã lấy tờ giấy đi từ cửa sổ. Nếu suy đoán như vậy thì việc phát sáng trong 10 giây rồi biến mất không một dấu vết đều có thể giải thích được."*
+
+**Uketsu:** *"...Đúng là có thể giải thích theo lý luận thông thường như vậy thật... Nhưng ngay từ đầu tại sao đoàn người lại làm chuyện này...?"*
+
+**Kurihara:** *"Đơn giản thôi. Bọn họ đã hướng tờ giấy đó ra phía bên ngoài, nghĩa là **muốn cho ai đó ở phía bên ngoài xem được tờ giấy đó.**"*
+
+**Uketsu:** *"Ai đó ở phía bên ngoài...?"*
+
+**Kurihara:** *"Ở một vùng như vậy thì đêm tối thường sẽ chẳng có ai. Nhưng chỉ trong hôm đó có một người đã đi ra ngoài"*
+
+... Đêm 08 tháng 09, một người đã rời khách sạn Hichiyagi để ra ngoài...
+
+**Uketsu:** *"...Là Kurabe Seiji?"*
+
+**Kurihara:** *"Nếu xem bản đồ ta có thể thấy một điều thú vị như dưới."*
+
+![[Pasted image 20241213085049.png]]
+
+**Kurihara:** *"Nơi Kurabe chết vì tai nạn vừa hay lại đối diện thẳng với phía khách sạn. Nếu thời điểm hắn ta từ trong rừng ra đường lớn cũng là cùng thời điểm với đoàn người giơ 'tờ giấy' kia ra, thì trước khi chết hẳn Kurabe đã thấy được ánh sáng xanh đó. Hoặc là **chính vì nhìn thấy ánh sáng xanh đó nên mới gây ra tai nạn.**"*
+
+**Uketsu:** *"Vì nhìn thấy ánh sáng xanh đó...không lẽ là nhầm với đèn tín hiệu giao thông...? Không phải, nếu thế thì chẳng cần phanh gấp để làm gì. Vậy thì là do đột nhiên có ánh sáng xanh nên bị giật mình...?"*
+
+**Kurihara:** *"Có thể sẽ giật mình nhưng không tới mức gây ra tai nạn đâu. Ánh sáng đó phải là thứ gì gây chấn động rất mạnh tới tinh thần. Cùng xem lại bức ảnh này nào."*
+
+![[Pasted image 20241213085625.png]]
+
+**Kurihara:** *"Ở bên trong ánh sáng, anh có nhìn thấy 2 đường khác với đường thẳng rèm của không? Nếu giảm độ tương phản sẽ nhìn thấy rõ hơn"*
+
+![[1720874543mgd6z.gif]]
+
+... Đúng là có 2 đường cong nổi lên thật.
+
+![[Pasted image 20241213085955.png]]
+
+**Uketsu:** *"Này là bóng của vật gì đó..?"*
+
+**Kurihara:** *"Và cái bóng này trùng khớp với một phần của tấm ảnh."*
+
+**Uketsu:** *"Tấm ảnh?"*
+
+**Kurihara:** *"Uketsu hẳn cũng từng thấy rồi đấy. Ở trên tờ báo đăng về việc tìm được danh tính của thi thể."*
+
+**Uketsu:** *"Không lẽ..."*
+
+![[Pasted image 20241213090334.png]]
+
+**Uketsu:** *"Là của Harukina Mirai...?"*
+
+**Kurihara:** *"Nếu thử ghép tấm hình trên và mặt của cô ấy sẽ nhận ra một điều thú vị khác."*
+
+![[172087652031xm1.gif]]
+
+... Đây chắc chắn không thể nào là ngẫu nhiên được.
+
+![[Pasted image 20241213090529.png]]
+
+**Kurihara:** *"Đường cong hoàn toàn khớp với một phần khuôn mặt của Mirai."*
+
+**Uketsu:** *"... Đúng là vậy thật."*
+
+**Kurihara:** *"Phần nhìn được từ cửa sổ là một phần của tờ giấy. Hay nói cách khác toàn bộ tờ giấy chính là khuôn mặt của Mirai."*
+
+**Uketsu:** *"Khuôn mặt của Mirai trên một tờ giấy lớn ư...?"*
+
+**Kurihara:** *"Cách làm cũng dễ thôi."*
+
+![[Pasted image 20241213090859.png]]
+
+**Kurihara:** *"Ban đầu, ta cần in ra khuôn mặt của Mirai lên tờ giấy. Nếu nhờ công ty in ấn thì chỉ cần trả vài chục nghìn yên chắc họ sẽ chấp nhận, hay nếu có máy copy thì càng dễ hơn nữa."*
+
+![[Pasted image 20241213091131.png]]
+
+**Kurihara:** *"Sau đó ta bôi sơn phát quang lên phía bên trên. Sơn phát quang có đặc tính là sẽ phát sáng màu khác với những vùng có màu khác. Nếu cho người ta xem thứ này vào giữa đêm khuya thì sẽ thế nào?"*
+
+![[Pasted image 20241213091312.png]]
+
+**Kurihara:** *"Bất thình lình trong đêm tối xuất hiện một khuôn mặt như vậy... Không phải là giống hồn ma hay sao?"*
+
+**Uketsu:** *"... Hay nói cách khác, thứ cuối cùng Kurabe nhìn thấy chính là...hồn ma của Mirai..."*
+
+**Kurihara:** *"Đúng vậy."*
+
+![[Pasted image 20241213091455.png]]
+
+**Kurihara:** *"Kurabe trên đường trở về khách sạn thì gặp khúc cua. Ngay tại đó đột nhiên có một hồn ma xuất hiện. Chưa kể lúc đó còn là khi vừa mới đào xác người lên nên cảm giác sợ hãi, bất an cũng từ đó mà ập đến. Gặp phải trường hợp người đã chết lại xuất hiện ngay trước mắt như vậy thì chắc chắn chẳng thể nào bình tĩnh nổi."*
+
+**Uketsu:** *"Và Kurabe vì cố tránh 'hồn ma của Mirai' mà phanh gấp."*
+
+![[Pasted image 20241213091811.png]]
+
+**Kurihara:** *"Việc camera an ninh chẳng quay lại gì được cũng hiển nhiên thôi. Camera thì sẽ hướng từ trên cao xuống đường, còn thứ Kurabe cố tránh lại không nằm trên đường mà là ở tận bên kia, phía tường của khách sạn."*
+
+**Uketsu:** *"Ra là thế...chờ đã. Nếu vậy thì đoàn người kia đã biết Kurabe sẽ đi đào cái xác từ trước nên mới chuẩn bị sẵn như vậy nhỉ?"*
+
+**Kurihara:** *"Chính xác là như vậy. Theo như suy luận từ nãy tới giờ thì rõ ràng đây là **một vụ giết người từ xa có chủ đích được lên kế hoạch từ trước.**"*
+
+**Uketsu:** *"Giết người từ xa..."*
+
+![[Pasted image 20241213092304.png]]
+
+... Kurabe, Aki, Ishino, Edano, Karukaya, Saruhari, Tanaka, Nazaki và Murai.
+
+Mối quan hệ giữa những người này là gì...?
+
+**Kurihara:** *"Tiếc là suy đoán của tôi chỉ đến đây. Nếu có bất kỳ thông tin nào mới thì nhớ liên lạc, kể cả những thứ cực kỳ nhỏ nhặt đi nữa."*
+
+**Uketsu:** *"Vâng..."*
+
+... Tôi lúc đó hề không biết rằng mình đã bỏ qua một **yếu tố quan trọng** có thể dẫn đến sự thật của toàn bộ vụ án.
+
+Để biết được sự thật này, tôi đã cần rất nhiều thời gian sau đó. 
+
+***\[Kỳ tới: Danh tính đoàn người bí ẩn]***
+
+---
+
+**Bài viết này chỉ là bản dịch từ [truyện ngắn](https://youtu.be/2w00oMLBpuk?si=JHgS4dWcaAm99ITX) của tác giả Uketsu (雨穴)**
+
+**KHÔNG REPOST DƯỚI MỌI HÌNH THỨC**
