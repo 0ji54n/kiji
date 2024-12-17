@@ -11,11 +11,11 @@ Mọi chuyện bắt đầu từ tấm ảnh bên dưới:
 
 Bức ảnh này được chụp vào nửa đêm 5 năm trước, tại một phòng khách sạn nọ.
 
-Thoạt nhìn thoáng qua, ai cũng nhận ra điểm kỳ lạ ở anh sáng xanh chiếu sáng xuyên qua rèm cửa kia.
+Thoạt nhìn thoáng qua, ai cũng nhận ra điểm kỳ lạ ở ánh sáng xanh chiếu xuyên qua rèm cửa kia.
 
 Một người đàn ông đã chết ở gần khách sạn vào thời điểm đó.
 
-## 1. Ánh sáng xanh kỳ lạ
+## Phần 1: Ánh sáng xanh kỳ lạ
 
 Gần đây, tôi có đến gặp một ký giả tạp chí tên là Shintani.
 
@@ -63,7 +63,7 @@ Trông như thể một cảnh phim Khoa học viễn tưởng.
 
 **Shintani:** *"Theo như tin tức thì vào sáng hôm đó... Ở gần Hichiyagi Hotel một tên tội phạm đã chết vì tai nạn."*
 
-## 2. Cái chết vì tai nạn của tên tội phạm sát nhân
+### Cái chết vì tai nạn của tên tội phạm sát nhân
 
 ... Shintani mở tập tài liệu ra và cho tôi xem tờ báo có đăng tin tức hôm ấy.
 
@@ -183,7 +183,7 @@ Nhưng...
 
 **Shintani:** *"Đúng là nghe như mấy câu chuyện dùng để doạ người, nhưng mà có thể lắm chứ."*
 
-## 3. Âm thanh kỳ lạ
+### Âm thanh bí ẩn
 
 Sau khi trở về nhà, tôi xem lại bức ảnh một lần nữa.
 
@@ -263,7 +263,7 @@ Nhận được sự đồng ý của tác giả, nên tôi xin phép đính kè
 
 *"Hmm? Mọi người có nghe âm thanh gì không? Giọng nữ thì phải? Có cả giọng nam luôn!? Chắc là nên chạy khỏi đây thì hơn."*
 
-## 4. Người quen
+### Người quen
 
 Tai nạn, thi thể, ánh sáng màu xanh và âm thanh bí ẩn.
 
@@ -545,10 +545,12 @@ Mối quan hệ giữa những người này là gì...?
 
 Để biết được sự thật này, tôi đã cần rất nhiều thời gian sau đó. 
 
-***\[Kỳ tới: Danh tính đoàn người bí ẩn]***
+***\[[[Phần 2]]\: Danh tính đoàn người bí ẩn]***
+
+[[index]]
 
 ---
 
-**Bài viết này chỉ là bản dịch từ [truyện ngắn](https://youtu.be/2w00oMLBpuk?si=JHgS4dWcaAm99ITX) của tác giả Uketsu (雨穴)**
+**Bài viết này chỉ là bản dịch từ [truyện ngắn](https://youtu.be/2w00oMLBpuk?si=JHgS4dWcaAm99ITX) của của tác giả Uketsu (雨穴)**
 
 **KHÔNG REPOST DƯỚI MỌI HÌNH THỨC**
