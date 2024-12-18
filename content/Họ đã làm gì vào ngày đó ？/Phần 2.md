@@ -416,6 +416,8 @@ Sau một hồi nhắn tin thì tôi quyết định thử hỏi về "những b
 
 *"Ta gọi điện để nói thêm nhé?"*
 
+**\[[[Phần 3]]: Sự thật về đêm nọ**
+
 [[index]]
 
 ---
