@@ -87,7 +87,7 @@ Duy chỉ có 1 điểm làm tôi chú ý.
 
 ![[Pasted image 20241217104234.png]]
 
-Dù đã mở được vài phút nhưng **biểu tượng tải trang không biến mất**. Đây hoàn toàn không phải vấn đề kết nối, các website khác có thể load xong mà chỉ tốn vài giây. Chỉ duy nhất trang chủ của Mirai xảy ra hiện tượng **kết nối chậm một cách dị thường** như thế này.
+Dù đã mở được vài phút nhưng **biểu tượng tải trang không biến mất**. Đây hoàn toàn không phải vấn đề kết nối, các trang khác có thể tải xong mà chỉ tốn vài giây. Chỉ duy nhất trang chủ của Mirai xảy ra hiện tượng **kết nối chậm một cách dị thường** như thế này.
 
 ### Nguỵ trang
 
@@ -416,7 +416,7 @@ Sau một hồi nhắn tin thì tôi quyết định thử hỏi về "những b
 
 *"Ta gọi điện để nói thêm nhé?"*
 
-**\[[[Phần 3]]: Sự thật về đêm nọ**
+**\[[[Phần 3]]: Sự thật về đêm nọ\]**
 
 [[index]]
 

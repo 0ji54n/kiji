@@ -14,15 +14,13 @@ Tôi nhấc máy gọi vào số điện thoại Nazaki gửi.
 
 **Nazaki:** *"Fan thường gọi cô ấy như vậy. Ngoài ra còn 'Miratan' hay 'Miirachan' nữa, nhưng nổi hơn cả vẫn là 'Mirara'."*
 
-... Vào lúc đó, đột nhiên tôi muốn hỏi một chuyện chẳng liên quan gì tới bí ẩn vụ án kia.
-
 **Uketsu:** *"Tại sao Nazaki lại thích Mirai đến như vậy?"*
 
 ... Tôi đã luôn muốn hỏi điều này từ khi xem bài đăng nọ.
 
 ![[Pasted image 20241218094637.png]]
 
-Về Mirai đối với tôi chỉ là một "Idol bị quên lãng sau cái chết của chính mình". Nhưng cuối cùng không phải như vậy.
+Về Mirai đối với tôi chỉ là một "idol bị quên lãng sau cái chết của chính mình". Nhưng cuối cùng không phải như vậy.
 
 Cho tới tận bây giờ vẫn còn người nghe những bài hát của cô ấy, lắng nghe và chia sẻ câu chuyện về cô ấy. Có lẽ đối với ai đó thì đây là chuyện bình thường, nhưng đối với tôi là một cảm giác vô cùng mới mẻ.
 
@@ -81,7 +79,7 @@ Cảm ơn vì những lời động viên từ mọi người, nhờ đó mà b�
 Chiều nay tôi sẽ đi tới đồn cảnh sát để trình bày về việc này.
 ```
 
-**Nazaki:** *"Một mặt thì cũng thấy nhẹ nhõm, nhưng mặt khác thì phải chấp nhận sự thật rằng 'Mirara đã chết rồi' làm tôi không thể ngừng khóc. Nhưng kể từ đó...mọi chuyện bắt đầu rất kỳ cục."*
+**Nazaki:** *"Một mặt thì cũng thấy nhẹ nhõm, nhưng mặt khác thì phải chấp nhận sự thật rằng 'Mirara đã chết rồi' làm tôi lại tiếp tục khóc. Nhưng kể từ đó...mọi chuyện bắt đầu rất kỳ cục."*
 
 **Uketsu:** *"... Nghĩa là sao?"*
 
@@ -100,9 +98,9 @@ Vừa nãy khi chuẩn bị tới đồn cảnh sát thì tôi lại nhận đư
 
 Cách mà phía cảnh sát thực hiện khi tôi nhờ điều tra về Mirai trước đó làm tôi cực kỳ áp lực, chưa kể khi trình bày việc "Mirai là idol" thì họ còn thẳng mặt trêu đùa và phỉ báng tôi.
 
-Tôi không muốn những kẻ như vậy chạm tay vào cơ thể của Mirai nên có thỉnh cầu tới mọi người như dưới.
+Tôi không muốn những kẻ như vậy chạm tay vào cơ thể của Mirai nên có một thỉnh cầu tới mọi người.
 
-Không biết tôi có thể nhờ mọi người cùng tôi đào xác Mirai lên được không? Trong 3 tháng vừa qua, tôi có thể hiểu rất rõ rằng mọi người yêu con bé tới mức nào, được bàn tay của mọi người cứu từ lòng đất, hẳn Mirai cũng sẽ rất hạnh phúc.
+Không biết tôi có thể nhờ mọi người cùng tôi đào thi thể Mirai lên được không? Trong 3 tháng vừa qua, tôi có thể hiểu rất rõ rằng mọi người yêu con bé tới mức nào, được bàn tay của mọi người cứu từ lòng đất, hẳn Mirai cũng sẽ rất hạnh phúc.
 
 Với những ai có thể tham gia được hãy gửi cho tôi địa chỉ mail, tôi sẽ gửi vị trí thi thể và ngày thực hiện cho từng người.
 
@@ -114,7 +112,7 @@ Với những ai có thể tham gia được hãy gửi cho tôi địa chỉ ma
 
 **Uketsu:** *"Đúng là vậy nhỉ."*
 
-**Nazaki:** *"Nhưng Saori vẫn một mực không thay đổi quyết định, sau đó là những bài văn dài nói về việc Mirara khi còn sống đã yêu quý fan của mình tới nhường nào... Dù đúng là có cảm động nhưng cũng không hề làm tôi nghĩ rằng 'sẽ tham gia để đi đào xác lên', có lẽ mọi người khác cũng giống vậy. Nhưng rồi có lẽ là do bản thân nơi đó tụ tập số lượng người ít ỏi như vậy với một mục đích chung gắn kết với nhau khăng khít như vậy, nên bằng lời nói của Saori đã gây ra hiện tượng giống với bài diễn thuyết của Hojo Masako, dần dần ý chí của mọi người đã hợp thành một...rồi tin nhắn xin tham gia cứ thế lần lượt xuất hiện."*
+**Nazaki:** *"Nhưng Saori vẫn một mực không thay đổi quyết định, sau đó là những bài văn dài nói về việc Mirara khi còn sống đã yêu quý fan của mình tới nhường nào... Dù đúng là có cảm động nhưng cũng không hề làm tôi nghĩ rằng 'sẽ tham gia để đi đào xác lên', mọi người khác cũng giống vậy. Nhưng rồi có lẽ là do bản thân nơi đó tụ tập số lượng người ít ỏi như vậy với một mục đích chung gắn kết với nhau khăng khít như vậy, nên bằng lời nói của Saori đã gây ra hiện tượng giống với bài diễn thuyết của Hojo Masako, dần dần ý chí của mọi người đã hợp thành một...rồi tin nhắn xin tham gia cứ thế lần lượt xuất hiện."*
 
 **Uketsu:** *"Việc đó...đúng là dị thường thật nhỉ. Nhưng tại sao Saori lại có khả năng thuyết phục mọi người mạnh mẽ đến thế?"*
 
@@ -208,7 +206,7 @@ Việc tập hợp mọi người lại khách sạn...là do Saori đang lên k
 
 ![[Pasted image 20241218142332.png]]
 
-**Nazaki:** *"Lúc đấy mọi người đều nghĩ rằng Mirara lúc đi ra ngoài thì bị ai đó tiếp cận nên đã bỏ chạy và trốn vào nhà vệ sinh công cộng. Nhưng tôi thì không hề nghĩ vậy."*
+**Nazaki:** *"Lúc đấy mọi người đều nghĩ rằng Mirara khi đi ra ngoài thì bị ai đó tiếp cận nên đã bỏ chạy và trốn vào nhà vệ sinh công cộng. Nhưng tôi thì không hề nghĩ vậy."*
 
 ![[Pasted image 20241218142619.png]]
 
@@ -232,13 +230,11 @@ Việc tập hợp mọi người lại khách sạn...là do Saori đang lên k
 
 **Uketsu:** *"Hả... Nghĩa là..."*
 
-**Nazaki:** *"Mirara đã bị ai đó trong nhà đuổi và phải chạy vào trốn vào nhà vệ sinh. Ban đầu tôi nghĩ là trộm nhưng nếu thế thì rất kỳ cục. Mirara chạy vào nhà về sinh và đăng những dòng trên, nghĩa là lúc đó **có mang theo điện thoại**. Nếu đối phương thật sự là một tên biến thái đáng sợ thì cứ gọi cảnh sát là xong không phải sao? Ai lại đi mở X lên đăng bài bao giờ? Mirara dù lúc đó sợ nhưng vẫn nghĩ rằng 'chuyện không lớn tới mức đó', đối phương chắc chắn phải là ai đó cực kỳ thân thiết hoặc là **người nhà**."*
+**Nazaki:** *"Mirara đã bị ai đó trong nhà đuổi và phải chạy trốn vào nhà vệ sinh. Ban đầu tôi nghĩ là trộm nhưng nếu thế thì rất kỳ cục. Mirara chạy vào nhà vệ sinh và đăng những dòng trên, nghĩa là lúc đó **có mang theo điện thoại**. Nếu đối phương thật sự là một tên biến thái đáng sợ thì cứ gọi cảnh sát là xong không phải sao? Ai lại đi mở X lên đăng bài bao giờ? Mirara dù lúc đó sợ nhưng vẫn nghĩ rằng 'chuyện không lớn tới mức đó', đối phương chắc chắn phải là ai đó cực kỳ thân thiết hoặc là **người nhà**."*
 
 ... Người nhà của Mirai...**chỉ có một người duy nhất**.
 
-Khi vẫn còn đang sắp xếp lại suy nghĩ thì Nazaki nhận được một mail khác gửi tới vào 01 giờ 30 phút sáng, sớm hơn thời gian tập trung 30 phút.
-
-Nội dung trong mail toàn là những lời mà Nazaki chẳng thể hiểu được. 
+**Nazaki:** *"Khi vẫn còn đang sắp xếp lại suy nghĩ thì tôi nhận được một mail khác gửi tới vào 01 giờ 30 phút sáng, sớm hơn thời gian tập trung 30 phút. Nội dung trong mail toàn là những lời mà tôi tới bây giờ vẫn chẳng thể hiểu được. "*
 
 ![[Pasted image 20241218145527.png]]
 
@@ -343,7 +339,7 @@ Giữa mẹ và con gái rốt cuộc đã xảy ra chuyện gì?
 | 07/09                 | Mọi người bao gồm Kurabe trọ lại Hichiyagi Hotel                                                                               |
 | 08/09 <br>(00:58 A.M) | Saori thông báo về vị trí thi thể tới mọi người                                                                                |
 | 08/09 <br>(01:00 A.M) | Kurabe một mình rời khỏi khách sạn                                                                                             |
-| 08/09 <br>(01:30 A.M) | Saori thông báo huỷ việc đào thi thể,<br>nhờ mọi người cầm một tờ giấy lớn                                                     |
+| 08/09 <br>(01:30 A.M) | Saori thông báo huỷ việc đào thi thể,<br>thay vào đó nhờ mọi người cầm một tờ giấy lớn                                         |
 | 08/09 <br>(??:??)     | Kurabe sau khi đào thi thể Mirai lên thì chết trên đường về khách sạn                                                          |
 
 **Uketsu:** *"Dù không rõ động cơ là gì, nhưng cả hai đã sát hại Mirai, chôn thi thể, kêu gọi fan, tạo nên một tên hung thủ khác không tồn tại rồi nhờ mọi người đào cái xác lên. Nhưng cuối cùng Saori đã phản bội Kurabe."*
@@ -368,7 +364,7 @@ Giữa mẹ và con gái rốt cuộc đã xảy ra chuyện gì?
 
 ![[Pasted image 20241218162220.png]]
 
-**Kurihara:** *"Theo danh sách trên thì ngày đó trọ lại chỉ có Saruhari (Saori), không hề có Kurabe, hay nói cách khác chỉ có một mình Saori tham gia chôn thi thể. Tóm gọn lại thì tôi nghĩ người gây ra tội ác đầu tiên...sát hại Mirai và chôn thi thể đều là Saori tự làm một mình cả. Nếu Kurabe là đồng phạm thì phải là hai người cùng làm, hoặc phải giúp nhau theo cách nào đó, không phải sao?"*
+**Kurihara:** *"Theo danh sách trên thì ngày đó trọ lại chỉ có Saruhari (Saori), không hề có Kurabe, hay nói cách khác chỉ có một mình Saori tham gia chôn thi thể. Tóm gọn lại thì tôi nghĩ người gây ra tội ác đầu tiên...sát hại Mirai và chôn thi thể đều là Saori tự làm một mình. Nếu Kurabe là đồng phạm thì phải là hai người cùng làm, hoặc phải giúp nhau theo cách nào đó, không phải sao?"*
 
 **Uketsu:** *"Thì đúng là như vậy thật..."*
 
@@ -393,7 +389,7 @@ timeline
 
 **Uketsu:** *"... Xương? Người ta có phải chó đâu?"*
 
-**Kurihara:** *"Nhưng nếu như thế thì Kurabe sẽ là một tên 'cực kỳ thèm muốn xương của Mirai'."*
+**Kurihara:** *"Nếu suy nghĩ như thế thì Kurabe sẽ là một tên 'cực kỳ thèm muốn xương của Mirai'."*
 
 **Uketsu:** *"Thèm tới mức vội vã rời khách sạn để đi đào lên như vậy nhỉ."*
 
@@ -476,3 +472,81 @@ timeline
 **Kurihara:** *"Kurabe sau khi có được thi thể Mirai vì mắc bẫy của Saori mà chết trên đường về. Sáng hôm sau đó, người ta tìm được xe của Kurabe, cùng thời điểm đó cũng tìm được thi thể của Mirai nên phía cảnh sát đã nhầm rằng **Kurabe là hung thủ**. Tất cả cuối cùng đều nằm gọn trong lòng bàn tay của Saori."*
 
 ... Nếu tổng hợp lại thì sẽ trông thế này.
+
+| Thời gian            | Sự việc                                                                                                                                                                                                                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08/06                | Harukina Mirai mất tích<br>Saruhari (Saori) trọ tại Hichiyagi Hotel<br>**→ Saori giết hại Mirai và đem chôn gần Hichiyagi Hotel**<br>**→ Saori báo với cảnh sát rằng "con gái mình mất tích"**<br>**→ Kurabe đọc được tin tức và tiến hành tìm kiếm Mirai** |
+| 30/06                | Saori tạo diễn đàn,<br>nhờ mọi người tìm kiếm thông tin về Mirai<br>**→ Mục đích thật sự là để dụ Kurabe vào tròng**<br>**→ Kurabe tìm ra diễn đàn đúng như dự đoán của Saori**                                                                             |
+| 02/09                | Saori liên lạc với thành viên trên diễn đàn<br>"Hung thủ đã cho biết vị trí của thi thể"<br>"Mong muốn mọi người cùng đào lên"<br>**→ Đây là lời nói dối do Saori tự dựng chuyện**                                                                          |
+| 03/09                | Kurabe Seiji xuất hiện và xin tham gia<br>**→ Vì chẳng biết gì nên Kurabe đã nghĩ "Đây là cơ hội để cướp lấy xương Mirai" và xin tham gia**                                                                                                                 |
+| 07/09                | Mọi người bao gồm Kurabe trọ lại Hichiyagi Hotel                                                                                                                                                                                                            |
+| 08/09<br>(00:58 A.M) | Saori thông báo về vị trí thi thể tới mọi người                                                                                                                                                                                                             |
+| 08/09<br>(01:00 A.M) | Kurabe một mình rời khỏi khách sạn<br>**→ Với dự định sẽ lẻn đi trước giờ tập trung và cướp lấy thi thể**                                                                                                                                                   |
+| 08/09<br>(01:30 A.M) | Saori thông báo huỷ việc đào thi thể,<br>thay vào đó nhờ mọi người cầm một tờ giấy lớn                                                                                                                                                                      |
+| 08/09<br>(??:??)     | Kurabe sau khi đào thi thể Mirai lên thì chết trên đường về khách sạn<br>**→ Cảnh sát phát hiện thi thể trong xe và tưởng nhầm "Kurabe là hung thủ"**                                                                                                       |
+
+... Đúng là cách suy nghĩ này hoàn toàn hợp lý, hay đúng hơn là nếu không nghĩ thế thì hoàn toàn không có cách nào để lý giải những điểm bất thường trong vụ án này. Nhưng rốt cuộc động cơ là gì?
+
+Lý do mà Kurabe muốn có xương của Mirai.
+
+Lý do mà Saori muốn giết Kurabe.
+
+Lý do Mirai bị dùng làm mồi nhử.
+
+**Uketsu:** *"Saori đã từng là một người mẹ hết sức ủng hộ ước mơ của con gái mình vậy mà..."*
+
+**Kurihara:** *"Về chuyện đó, Uketsu có còn nhớ về câu nói của Mirai không?"*
+
+**Uketsu:** *"Câu nói nào cơ?"*
+
+**Kurihara:** *"**'Bằng mọi giá em phải trở thành idol, làm ơn hãy giúp em trở thành idol với ạ'**... Đối với Nazaki thì đây là 'nghị lực', nhưng từ góc nhìn của tôi thì đây giống 'ép buộc' hơn. Tại sao Mirai lại muốn trở thành idol tới mức đấy?"*
+
+**Uketsu:** *"..."*
+
+**Kurihara:** *"Trong kế hoạch của Saori cần phải có những 'fan cuồng'. Nếu không có niềm tin vững chắc thì kế hoạch 'giết người từ xa' đã chẳng thể thành công. Chưa kể nếu Mirai là người trong giới nghệ sĩ thì tin mất tích cũng dễ tới tai Kurabe hơn... Có thể ngay từ đầu Mirai đã nhận được lệnh từ mẹ là 'phải trở thành idol' cũng nên."*
+
+**Uketsu:** *"Vậy nghĩa là...Mirai ngay từ đầu đã được Saori nuôi nấng để trở thành công cụ giết Kurabe...?"*
+
+**Kurihara:** *"Không chắc có lý do gì để phải làm tới mức đó. Nhưng tôi cũng một phần đồng ý về việc Nazaki nghi ngờ 'Saori có phải mẹ ruột của Mirai hay không'."*
+
+... Kurihara để lại một câu nói đầy ẩn ý rồi cúp máy.
+
+### Kết nối
+
+Tôi không thể hiểu được.
+
+![[Pasted image 20241219090902.png]]
+
+**"Kurabe Seiji", "Harukina Saori", "Harukina Mirai"**
+
+Giữa họ đã xảy ra chuyện gì?
+
+Thứ duy nhất có liên quan tới cả ba người cho tới bây giờ cũng chỉ có diễn đàn kia.
+
+Tôi mở màn hình nhập mật khẩu lên để kiểm tra lần nữa.
+
+![[Pasted image 20241219091110.png]]
+
+Với những người sống ở vùng Kanto khi nhắc tới "Kawagoe" thì sẽ nghĩ ngay tới thành phố Kawagoe thuộc tỉnh Saitama. Nhưng giả sử với trường hợp "Yuzawa" có ở cả 2 tỉnh Akita và Niigata, ở Nhật có những trường hợp tên địa danh bị trùng nhau như vậy.
+
+Liệu "Kawagoe" chỉ có ở Saitama hay không? Để trả lời tôi liền tìm trên mạng với từ khoá "Kawagoe, địa danh".
+
+Kết quả tìm được là những thứ mà tôi chưa từng nghĩ tới, vào lúc đó, tâm trí tôi như vừa mở ra một con đường mới dẫn đến mối liên kết của từng điểm trong vụ án.
+
+Giờ thì tôi đã hiểu rõ tất cả.
+
+Lý do Kurabe muốn có xương của Mirai.
+
+Lý do Saori muốn giết Kurabe.
+
+... Và Harukina Mirai thực ra là ai.
+
+***[Kỳ cuối: Chân tướng của toàn bộ sự việc]***
+
+[[index]]
+
+---
+
+**Bài viết này chỉ là bản dịch từ [truyện ngắn](https://youtu.be/2w00oMLBpuk?si=JHgS4dWcaAm99ITX) của của tác giả Uketsu (雨穴)**
+
+**KHÔNG REPOST DƯỚI MỌI HÌNH THỨC**
