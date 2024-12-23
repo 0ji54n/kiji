@@ -255,7 +255,7 @@ Vào đêm đó, lý do khiến tờ giấy bị lật bởi gió mạnh...
 
 ![[Pasted image 20241218150453.png]]
 
-Là vì ở phòng 601 không hề có người. Vì Nazaki rời đi nên trọng tâm của hình chữ nhật cũng bị thay đổi.
+Là vì ở phòng 601 không hề có người. Vì Nazaki rời đi nên trọng tâm của hình vuông cũng bị thay đổi.
 
 Nhưng dù vậy kế hoạch vẫn thành công. Giả sử có một người khác cũng giống Nazaki, cũng rời đi sớm đêm hôm đó thì có lẽ mọi chuyện đã khác...
 
@@ -432,7 +432,7 @@ timeline
     03/09 : Kurabe Seiji xuất hiện và xin tham gia
 ```
 
-**Kurihara:** *"Saori bắt đầu hành động vào ngày 02 tháng 09, đăng bài nói là **hung thủ đã liên lạc với mình và chỉ nơi chôn thi thể**. Không cần phải nói, đây là mồi nhử từ kết quả tự biên tự diễn để nhử Kurabe, chẳng có 'hung thủ' nào cả, kẻ chôn thi thể xuống chính là Saori. Nhưng Kurabe vì không biết gì mà đã cắn câu không do dự kèm suy nghĩ **'sẽ tham gia và cướp lấy thi thể'**."*
+**Kurihara:** *"Saori bắt đầu hành động vào ngày 02 tháng 09, đăng bài nói là **hung thủ đã liên lạc với mình và chỉ nơi chôn thi thể**. Không cần phải nói, đây là mồi nhử từ kết quả tự biên tự diễn để dụ Kurabe, chẳng có 'hung thủ' nào cả, kẻ chôn thi thể xuống chính là Saori. Nhưng Kurabe vì không biết gì mà đã cắn câu không do dự kèm suy nghĩ **'sẽ tham gia và cướp lấy thi thể'**."*
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%

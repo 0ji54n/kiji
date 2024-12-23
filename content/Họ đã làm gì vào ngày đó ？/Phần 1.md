@@ -31,9 +31,9 @@ Từ đó, tôi đã nghe được câu chuyện về "Trải nghiệm kỳ lạ
 
 **Uketsu (tác giả):** *"Xung quanh chẳng có nhà cửa gì nhỉ, này là ở vùng nông thôn à?"*
 
-**Shintani:** *"Nhiều cây cối thật đấy, nhưng đúng là ngoài ra chẳng còn gì cả thật. Có vẻ vì ở một nơi như thế này nên bình thường chẳng bao giờ có khách tới lui nhiều, quản lý cũng tệ hại. Không biết chủ khách sạn có đóng tiền điện hay không nữa, hình ảnh hành lang tối mịt cho tới bây giờ tôi vẫn còn nhớ như in đây."*
+**Shintani:** *"Ngoài cây cối ra đúng là chẳng còn gì cả thật. Có vẻ vì ở một nơi như thế này nên bình thường chẳng bao giờ có khách tới lui nhiều, quản lý cũng tệ hại. Không biết chủ khách sạn có đóng tiền điện hay không nữa, hình ảnh hành lang tối mịt cho tới bây giờ tôi vẫn còn nhớ như in đây."*
 
-**Uketsu:** *"Ở vùng núi hẻo lánh thế này thì đúng là hơi ghê thật nhỉ, những người khách khác thì sao?"*
+**Uketsu:** *"Ở vùng núi hẻo lánh thế này thì đúng là hơi ghê thật, những người khách khác thì sao?"*
 
 **Shintani:** *"Hình như lễ tân nói là 'lâu lắm mới có một đoàn người ghé thăm'. Nhưng dù thế thì ở sảnh vẫn im ắng cực kỳ."*
 
@@ -43,7 +43,7 @@ Từ đó, tôi đã nghe được câu chuyện về "Trải nghiệm kỳ lạ
 
 **Uketsu:** *"Tiếng động?"*
 
-**Shintani:** *"Một tiếng 'ẦM!' rất lớn, tôi bị âm thanh đó làm giật mình tới mức nhảy cả ra khỏi giường... Nhưng sau đó còn kỳ lạ hơn là thứ lúc đó tôi lỡ nhìn thấy..."*
+**Shintani:** *"Một tiếng 'ẦM!' rất lớn, tôi bị âm thanh đó làm giật mình tới mức nhảy cả ra khỏi giường... Nhưng sau đó còn kỳ lạ hơn là thứ tôi nhìn thấy..."*
 
 ... Shintani lấy điện thoại ra và cho tôi xem một bức ảnh.
 
@@ -53,15 +53,15 @@ Phòng khách sạn. Cửa sổ phát sáng xanh.
 
 Trông như thể một cảnh phim Khoa học viễn tưởng.
 
-**Shintani:** *"Vì bệnh nghề nghiệp nên cứ thấy thứ gì kỳ lạ là tôi đều chụp lại theo phản xạ. Dù ngái ngủ nhưng tôi vẫn chụp lại lúc đấy. Ánh sáng hình như kéo dài khoảng... 10 giây thì phải. Sau đó thì cả âm thanh lẫn ánh sáng đều biến mất, phía cửa sổ lại là màn đêm tăm tối như trước. Tôi có lại gần cửa sổ xem thử nhưng chẳng có gì khác biệt. Phía đối diện khách sạn chỉ có rừng cây bị chao đảo bởi gió lớn, cho tới bây giờ tôi vẫn còn rợn gáy."*
+**Shintani:** *"Vì bệnh nghề nghiệp nên lúc ấy dù ngái ngủ tôi vẫn chụp lại theo phản xạ.  Ánh sáng hình như kéo dài khoảng... 10 giây thì phải. Sau đó thì cả âm thanh lẫn ánh sáng đều biến mất, phía cửa sổ lại là màn đêm tăm tối như trước. Tôi có lại gần cửa sổ xem thử nhưng chẳng có gì khác biệt. Phía đối diện khách sạn chỉ có rừng cây bị chao đảo bởi gió lớn, cho tới bây giờ tôi vẫn còn rợn gáy."*
 
-... Sau đó vì bắt đầu thấy sợ nên Shintani chỉ biết trùm chăn nằm tiếp cho đến sáng.
+... Shintani kể tiếp rằng vì bắt đầu sợ nên chỉ biết trùm chăn nằm tiếp cho đến sáng.
 
-**Shintani:** *"Sáng hôm sau tôi lập tức check out và về Tokyo. Ngày hôm đó được nghỉ nên cũng có thể thong thả về nhà và nghỉ ngơi. Nhưng sau khi tỉnh dậy vào tầm chiều tối, mở tin tức lên xem thì không tin vào mắt mình nữa."*
+**Shintani:** *"Hôm sau ngủ dậy tôi lập tức check out và về Tokyo. Ngày hôm đó được nghỉ nên cũng có thể thong thả về nhà và nghỉ ngơi. Nhưng sau khi tỉnh dậy vào tầm chiều tối, mở tin tức lên xem thì không tin vào mắt mình nữa."*
 
 ... Khung cảnh chiếu trên TV lúc ấy nhìn rất quen.
 
-**Shintani:** *"Theo như tin tức thì vào sáng hôm đó... Ở gần Hichiyagi Hotel một tên tội phạm đã chết vì tai nạn."*
+**Shintani:** *"Sáng hôm đó... Ở gần Hichiyagi Hotel một tên tội phạm đã chết vì tai nạn."*
 
 ### Cái chết vì tai nạn của tên tội phạm sát nhân
 
