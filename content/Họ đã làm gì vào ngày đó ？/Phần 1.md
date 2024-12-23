@@ -93,15 +93,13 @@ Trong xe của Kurabe, người ta còn tìm được thêm một thi thể khá
 
 **Shintani:** *"Sau khi điều tra thì người ta đã chắc chắn đấy là Kurabe Seiji."*
 
-```mermaid
-flowchart TB
-id1(**Chiều 07 tháng 09**
-Dùng xe hơi để từ nhà ở Tokyo đến tỉnh Mie) --> id2(**Chiều tối**
-Check in ở khách sạn gần địa điểm) --> id3(**Sáng 08 tháng 09 khoảng sau 1h sáng**
-Rời khách sạn bằng xe hơi) --> id4(Đi vào rừng,
-đào thi thể lên 
-rồi bỏ vào cốp xe ) --> id5(Gặp tai nạn và chết ngay sau đó)
-```
+| Thời gian                              | Sự việc                                               |
+| -------------------------------------- | ----------------------------------------------------- |
+| 07 tháng 09                            | Dùng xe hơi để từ nhà ở Tokyo đến tỉnh Mie            |
+| Chiều tối cùng ngày                    | Check in ở khách sạn gần địa điểm                     |
+| Sáng 08 tháng 09<br>khoảng sau 1h sáng | Rời khách sạn bằng xe hơi                             |
+| ???                                    | Đi vào rừng,<br>đào thi thể lên <br>rồi bỏ vào cốp xe |
+| ???                                    | Gặp tai nạn và chết ngay sau đó                       |
 
 ... Từ thông tin hành vi và vị trí, cảnh sát đã đưa ra kết luận như dưới.
 

@@ -395,13 +395,16 @@ timeline
 ### Ba người
 
 ```mermaid
-flowchart LR
-   Kurabe -- muốn có xương --> Mirai  
-   Saori -- giăng bẫy để giết --> Kurabe
-   Saori -- dùng làm mồi nhử --> Mirai
+sequenceDiagram
+    participant S as Saori
+    participant K as Kurabe 
+    participant M as Mirai
+    S->>K: Giăng bẫy để giết
+    K->>M: Muốn có xương
+    S->>M: Dùng làm mồi nhử
 ```
 
-Mối quan hệ phức tạp thật sự có liên quan tới chìa khoá của vụ án?
+Mối quan hệ phức tạp này thật sự có liên quan tới chìa khoá của vụ án?
 
 Trước mắt tôi quyết định im lặng nghe suy đoán của Kurihara.
 
