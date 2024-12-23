@@ -39,12 +39,12 @@ Nhưng vào năm 27 tuổi khi bị bắt lần thứ 4, vì không có cách n�
 
 ```mermaid
 flowchart TD
-    Start(Mất vào năm 2019 lúc 45 tuổi) --> Stop(Sinh vào năm 1974)
+    Start([Mất vào năm 2019 lúc 45 tuổi]) --> Stop([Sinh năm 1974])
 ```
 
 ```mermaid
 flowchart TD
-    a(1974 + 27 tuổi（thời điểm bị bắt）) --> b(Bị bắt vào năm 2001) --> c(Lên Tokyo lập nghiệp vào năm 2002)
+    a([1974 + 27 tuổi]) --> b([Bị bắt năm 2001]) --> c([Lên Tokyo lập nghiệp năm 2002])
 ```
 Kurabe bị bắt lần thứ 4 vào năm 2001. 1 năm sau đó hắn lên Tokyo lập nghiệp nghĩa là **trước năm 2002 hắn đã ở Mie**.
 
@@ -52,7 +52,7 @@ Còn về phía Mirai...
 
 ```mermaid
 flowchart TD
-    Start(Mất vào năm 2019 lúc 17 tuổi) --> Stop(Sinh năm 2002)
+    Start([Mất năm 2019 lúc 17 tuổi]) --> Stop([Sinh năm 2002])
 ```
 
 ```mermaid
