@@ -225,23 +225,21 @@ Sau đó không lâu, tôi tìm được mật khẩu chính xác sớm hơn c�
 
 ![[Pasted image 20241217132322.png]]
 
-```
-30/06/2019 22:00 Người đăng: Harukina Saori
-
-Những ai đến được đây hẳn phải là người yêu thương Mirai bằng cả con tim.
-
-Tôi tạo ra nơi này là vì có một thỉnh cầu tới mọi người.
-
-Mirai đã mất tích từ ngày 08 tháng này. Nếu có bất kỳ thông tin gì mang khả năng liên quan tới vị trí hiện tại của con bé, kính mong mọi người có thể chia sẻ vào trang này.
-
-Cảnh sát chẳng thể nhờ được gì, thứ tôi nhận lại cuối cùng chỉ là những kẻ hóng chuyện làm phiền trên mạng xã hội.
-
-Đối với tôi, chỉ những người mang tình yêu đặc biệt sâu đậm đối với Mirai như mọi người mới thật sự là đồng minh.
-
-Về những thông tin được đăng lên, vui lòng đính kèm bất kỳ giấy tờ tuỳ thân nào có kèm mặt và sử dụng tên thật. Xin cảm ơn.
-
-Harukina Saori
-```
+> *30/06/2019 22:00 Người đăng: Harukina Saori*
+>
+> *Những ai đến được đây hẳn phải là người yêu thương Mirai bằng cả con tim.*
+>
+> *Tôi tạo ra nơi này là vì có một thỉnh cầu tới mọi người.*
+>
+> *Mirai đã mất tích từ ngày 08 tháng này. Nếu có bất kỳ thông tin gì mang khả năng liên quan tới vị trí hiện tại của con bé, kính mong mọi người có thể chia sẻ vào trang này.*
+>
+> *Cảnh sát chẳng thể nhờ được gì, thứ tôi nhận lại cuối cùng chỉ là những kẻ hóng chuyện làm phiền trên mạng xã hội.*
+>
+> *Đối với tôi, chỉ những người mang tình yêu đặc biệt sâu đậm đối với Mirai như mọi người mới thật sự là đồng minh.*
+>
+> *Về những thông tin được đăng lên, vui lòng đính kèm bất kỳ giấy tờ tuỳ thân nào có kèm mặt và sử dụng tên thật. Xin cảm ơn.*
+>
+> *Harukina Saori*
 
 **Kurihara:** *"Harukina Saori là ai vậy nhỉ?"*
 

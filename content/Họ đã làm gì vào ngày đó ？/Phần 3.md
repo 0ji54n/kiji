@@ -2,7 +2,7 @@
 
 # [Horror Mystery] Họ đã làm gì vào ngày đó?
 
-## Sự việc vào đêm 08 tháng 09
+## Phần 3: Sự việc vào đêm 08 tháng 09
 
 Tôi nhấc máy gọi vào số điện thoại Nazaki gửi.
 
@@ -50,16 +50,15 @@ Rốt cuộc thứ gì đã thu hút Nazaki tới vậy?
 
 ![[Pasted image 20241218101217.png]]
 
-```
-02/09/2019 0:00 Người đăng: Harukina Saori
 
-Tôi có thông báo tới mọi người.
-Vừa ban nãy, tôi có nhận được một cuộc gọi từ người tự xưng là thủ phạm.
-
-Hắn nói rằng Mirai đã chết. Dù không thể cho mọi người xem nhưng tôi đã xác nhận hình ảnh hắn gửi kèm.
-
-Có lẽ là quá đường đột, nhưng dù gì thì tôi nghĩ mọi người cũng nên biết chuyện này sớm hơn ai khác. Xin lỗi vì khiến mọi người phải tốn thời gian hợp tác với nhau cho tới bây giờ để rồi nhận lại kết quả này.
-```
+> *02/09/2019 0:00 Người đăng: Harukina Saori*
+>
+> *Tôi có thông báo tới mọi người.*
+> *Vừa ban nãy, tôi có nhận được một cuộc gọi từ người tự xưng là thủ phạm.*
+>
+> *Hắn nói rằng Mirai đã chết. Dù không thể cho mọi người xem nhưng tôi đã xác nhận hình ảnh hắn gửi kèm.*
+>
+> *Có lẽ là quá đường đột, nhưng dù gì thì tôi nghĩ mọi người cũng nên biết chuyện này sớm hơn ai khác. Xin lỗi vì khiến mọi người phải tốn thời gian hợp tác với nhau cho tới bây giờ để rồi nhận lại kết quả này.*
 
 **"Người tự xưng là thủ phạm"**...là Kurabe đã gọi điện để báo chuyện này cùng hình ảnh thi thể của Mirai đi kèm...? Tại sao lại làm chuyện như vậy vào lúc đó?
 
@@ -71,13 +70,12 @@ Có lẽ là quá đường đột, nhưng dù gì thì tôi nghĩ mọi ngườ
 
 ![[Pasted image 20241218102614.png]]
 
-```
-02/09/2019 11:23 Người đăng: Harukina Saori
+> *02/09/2019 11:23 Người đăng: Harukina Saori*
+>
+> *Cảm ơn vì những lời động viên từ mọi người, nhờ đó mà bản thân tôi cũng bình tĩnh lại phần nào.*
+>
+> *Chiều nay tôi sẽ đi tới đồn cảnh sát để trình bày về việc này.*
 
-Cảm ơn vì những lời động viên từ mọi người, nhờ đó mà bản thân tôi cũng bình tĩnh lại phần nào.
-
-Chiều nay tôi sẽ đi tới đồn cảnh sát để trình bày về việc này.
-```
 
 **Nazaki:** *"Một mặt thì cũng thấy nhẹ nhõm, nhưng mặt khác thì phải chấp nhận sự thật rằng 'Mirara đã chết rồi' làm tôi lại tiếp tục khóc. Nhưng kể từ đó...mọi chuyện bắt đầu rất kỳ cục."*
 
@@ -87,24 +85,21 @@ Chiều nay tôi sẽ đi tới đồn cảnh sát để trình bày về việc
 
 ![[Pasted image 20241218103306.png]]
 
-```
-02/09/2019 13:56 Người đăng: Harukina Saori
-
-Cho phép tôi được hỏi ý kiến mọi người.
-
-Vừa nãy khi chuẩn bị tới đồn cảnh sát thì tôi lại nhận được một cuộc gọi nữa từ hung thủ. Hắn chỉ cho tôi biết Mirai đang được chôn ở đâu.
-
-Để thật lòng mà nói thì bây giờ tâm trạng tôi vô cùng lung lay, đáng lẽ như bình thường thì giờ sẽ cần đi tới đồn cảnh sát và nhờ điều tra giúp khu vực ấy, nhưng tôi không muốn làm vậy.
-
-Cách mà phía cảnh sát thực hiện khi tôi nhờ điều tra về Mirai trước đó làm tôi cực kỳ áp lực, chưa kể khi trình bày việc "Mirai là idol" thì họ còn thẳng mặt trêu đùa và phỉ báng tôi.
-
-Tôi không muốn những kẻ như vậy chạm tay vào cơ thể của Mirai nên có một thỉnh cầu tới mọi người.
-
-Không biết tôi có thể nhờ mọi người cùng tôi đào thi thể Mirai lên được không? Trong 3 tháng vừa qua, tôi có thể hiểu rất rõ rằng mọi người yêu con bé tới mức nào, được bàn tay của mọi người cứu từ lòng đất, hẳn Mirai cũng sẽ rất hạnh phúc.
-
-Với những ai có thể tham gia được hãy gửi cho tôi địa chỉ mail, tôi sẽ gửi vị trí thi thể và ngày thực hiện cho từng người.
-
-```
+> *02/09/2019 13:56 Người đăng: Harukina Saori*
+>
+> *Cho phép tôi được hỏi ý kiến mọi người.*
+>
+> *Vừa nãy khi chuẩn bị tới đồn cảnh sát thì tôi lại nhận được một cuộc gọi nữa từ hung thủ. Hắn chỉ cho tôi biết Mirai đang được chôn ở đâu.*
+>
+> *Để thật lòng mà nói thì bây giờ tâm trạng tôi vô cùng lung lay, đáng lẽ như bình thường thì giờ sẽ cần đi tới đồn cảnh sát và nhờ điều tra giúp khu vực ấy, nhưng tôi không muốn làm vậy.*
+>
+> *Cách mà phía cảnh sát thực hiện khi tôi nhờ điều tra về Mirai trước đó làm tôi cực kỳ áp lực, chưa kể khi trình bày việc "Mirai là idol" thì họ còn thẳng mặt trêu đùa và phỉ báng tôi.*
+>
+> *Tôi không muốn những kẻ như vậy chạm tay vào cơ thể của Mirai nên có một thỉnh cầu tới mọi người.*
+>
+> *Không biết tôi có thể nhờ mọi người cùng tôi đào thi thể Mirai lên được không? Trong 3 tháng vừa qua, tôi có thể hiểu rất rõ rằng mọi người yêu con bé tới mức nào, được bàn tay của mọi người cứu từ lòng đất, hẳn Mirai cũng sẽ rất hạnh phúc.*
+>
+> *Với những ai có thể tham gia được hãy gửi cho tôi địa chỉ mail, tôi sẽ gửi vị trí thi thể và ngày thực hiện cho từng người.*
 
 **Uketsu:** *"'Không biết tôi có thể nhờ mọi người cùng tôi đào xác Mirai lên được không'...?"*
 
@@ -238,15 +233,13 @@ Việc tập hợp mọi người lại khách sạn...là do Saori đang lên k
 
 ![[Pasted image 20241218145527.png]]
 
-```
-Liên lạc khẩn cấp 08/09/2019 01:30
-
-Xin lỗi nhưng kế hoạch sẽ thay đổi một chút. Mong mọi người đừng rời khỏi phòng, thay vào đó hãy làm theo chỉ thị của tôi.
-
-Không phải là việc khó gì cả, sau khi tôi ra dấu thì nhờ mọi người đưa tay ra cửa, có lẽ chỉ tốn vài phút thôi nhưng hãy cầm giúp tôi một tờ giấy.
-
-Chi tiết sẽ được liên lạc sau.
-```
+> *Liên lạc khẩn cấp 08/09/2019 01:30*
+>
+> *Xin lỗi nhưng kế hoạch sẽ thay đổi một chút. Mong mọi người đừng rời khỏi phòng, thay vào đó hãy làm theo chỉ thị của tôi.*
+>
+> *Không phải là việc khó gì cả, sau khi tôi ra dấu thì nhờ mọi người đưa tay ra cửa, có lẽ chỉ tốn vài phút thôi nhưng hãy cầm giúp tôi một tờ giấy.*
+>
+> *Chi tiết sẽ được liên lạc sau.*
 
 ... Đây rõ ràng là chỉ thị cho việc **giết người từ xa**.
 
@@ -541,7 +534,7 @@ Lý do Saori muốn giết Kurabe.
 
 ... Và Harukina Mirai thực ra là ai.
 
-***[Kỳ cuối: Chân tướng của toàn bộ sự việc]***
+***\[[[Phần 4]]: Chân tướng của toàn bộ sự việc]***
 
 [[index]]
 
